@@ -1,6 +1,8 @@
 # Tableau_Challenge
 CitiBike Analysis using Tableau
 
+LINK TO PROJECT ON TABLEAU PUBLIC: https://geni.us/Tableau_CitiBike_KAA
+
 CITIBIKE ANALYSIS – SUMMARY & FINDINGS
 
 INTRO:  For this study I used the data that was collected by the CitiBike program in New York City.  The data that was used can be found at https://www.citibikenyc.com/system-data.  For the ease of setting up the models I only used four months of data (January and July of 2019 and 2020).  However, the visualizations could be run on much larger datasets.  Also, the data was concatenated together using a simply python script for ease of use when loading into Tableau.

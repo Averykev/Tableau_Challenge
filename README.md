@@ -29,5 +29,5 @@ SUMMARY:
 
 Based on our total findings it looks like the health of the CitiBike program is doing very well.  We have increased usage from 2019 to 2020…which is impressive considering there was a global pandemic during 2020 that is most likely responsible for driving the numbers down even more than during an average year.  The bulk of our business comes from stations that are located near the city center in Manhattan and it would be good to make sure that those stations are well taken care of and monitored throughout the year.  If any maintenance needs to be performed on the bikes themselves or the station locations…that work should be completed during the winter months as that is when ridership is at its lowest.  If we could increase ridership for people above the age of 50 or below the age of 21, we could see a significant growth in the total usage overall.  However, it seems as if the CitiBike program is headed in the right direction!
 
-Thank you for reading my report!
+Thank you for reading my report! 
 

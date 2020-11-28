@@ -1,7 +1,7 @@
 # Tableau_Challenge
 CitiBike Analysis using Tableau
 
-LINK TO PROJECT ON TABLEAU PUBLIC: https://geni.us/Tableau_CitiBike_KAA
+LINK TO PROJECT ON TABLEAU PUBLIC: https://geni.us/Tableau_CitiBike_KAA 
 
 CITIBIKE ANALYSIS – SUMMARY & FINDINGS
 
